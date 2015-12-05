@@ -21,36 +21,37 @@ Ex: awesome-br nodejs
 ## Questões
 
 **Título:** Título da URL
-> Exemplo: 
+> Exemplo: Começando com React
 
 **URL**:
-> Exemplo: 
+> Exemplo: http://exemplo.com
 
-**Tipo:** Escolhe o tipo de link
-> Opções: artigo, código, dica, livro, screencast, vídeo, tutorial, url
+**Tipo:** Escolhe o tipo de link (artigo, código, dica, livro, screencast, vídeo, tutorial, url, etc)
+> Exemplo: Artigo
 
-**Tags:** Tags (separadas por commas).
-> Exemplo: dica, documentação, api, referência, livro,
+**Tags:** Tags (separadas por vírgulas).
+> Exemplo: tutorial, introdução, javascript
 
 **Nome do Autor**
 > Exemplo: John Doe
 
 **URL do Site do Autor**
-> Exemplo: http://example.com
+> Exemplo: http://exemplo.com
 
 ### Resultado
 ```bash
 {
-    "name": "Título do link",
-    "url": "Url do link",
-    "type": "Tipo",
+    "name": "Começando com React",
+    "url": "http://exemplo.com",
+    "type": "Artigo",
     "tags": [
-      "tags",
-      "tags"
+      "tutorial",
+      "introdução",
+      "javascript"
     ],
     "author": {
-      "name": "Nome do autor",
-      "url": "Url do site do autor"
+      "name": "John Doe",
+      "url": "http://exemplo.com"
     }
   }
 ```
