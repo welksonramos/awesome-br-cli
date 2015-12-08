@@ -18,7 +18,7 @@ if(!args.length || args.length > 1){
 
 inquirer.prompt(questions, function(answers){
 
-fs.writeFile('sections/' + args + '.json', JSON.stringify(template(answers)), 'utf8', [{flags: 'w+'}], function(err){
+fs.writeFile('sections/' + args + '.json', JSON.stringify(template(answers), null, ' '), 'utf8', [{flags: 'w+'}], function(err){
 		if(!err) {
 			console.log('Arquivo criado com sucesso!');
 		};
