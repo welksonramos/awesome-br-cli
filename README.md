@@ -8,4 +8,3 @@ Em desenvolvimento... veja a branch [dev](https://github.com/welksonramos/awesom
 ## License
 
 &copy; [MIT](LICENSE) License
-
