@@ -16,6 +16,8 @@ if(!args.length || args.length > 1){
 	process.exit(1);
 }
 
+function
+
 inquirer.prompt(questions, function(answers){
 
 fs.writeFile('sections/' + args + '.json', JSON.stringify(template(answers), null, ' '), 'utf8', [{flags: 'w+'}], function(err){
