@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "CLI para registrar novas postagem em awesome-br",
   "bin": {
-    "awesome-br": "./bin/awesome-br"
+    "awesome-br": "./lib/awesome-br.js"
   },
   "preferGlobal": true,
   "scripts": {
@@ -17,6 +17,7 @@
   "author": "Welkson Ramos <welksonr@hotmail.com>",
   "license": "MIT",
   "dependencies": {
-    "inquirer": "^0.11.0"
+    "inquirer": "^1.0.2",
+    "path-exists":"^3.0.0"
   }
 }
