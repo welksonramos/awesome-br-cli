@@ -1,7 +1,8 @@
 # Awesome-br-cli
 > CLI para registrar novas postagem em [awesome-br](https://github.com/awesome-br)
 
-> Em desenvolvimento... veja a branch [dev](https://github.com/welksonramos/awesome-br-cli/tree/dev)
+#Requisitos
+- [Node 4+](http://nodejs.org)
 
 ## Instalação
 
