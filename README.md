@@ -13,7 +13,7 @@ $ npm install -g awesome-br-cli
 
 ## Uso
 
-Rode o seguinte comando no terminal:
+Rode o seguinte comando no terminal, dentro do diretório **_`awesome-br.github.io`_**:
 
 ```bash
 awesome-br <section>
