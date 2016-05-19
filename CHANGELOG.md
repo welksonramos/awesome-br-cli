@@ -6,6 +6,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - travis file
 - This CHANGELOG
+- screenshot
 
 ## [0.3.0] - 2016-05-13
 

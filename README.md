@@ -1,6 +1,8 @@
 # Awesome-br-cli
 > CLI para registrar novas postagem em [awesome-br](https://github.com/awesome-br)
 
+![Demo](screenshot-cli.png)
+
 #Requisitos
 - [Node 4+](http://nodejs.org)
 
