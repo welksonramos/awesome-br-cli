@@ -8,6 +8,9 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - This CHANGELOG
 - screenshot
 
+### Fixed
+- add acento ´ (agudo) em "título"
+
 ## [0.3.0] - 2016-05-13
 
 ### Added
