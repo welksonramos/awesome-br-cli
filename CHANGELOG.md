@@ -4,6 +4,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 ### Added
+- add update notifications
 - travis file
 - This CHANGELOG
 - screenshot
