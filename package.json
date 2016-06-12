@@ -1,6 +1,6 @@
 {
   "name": "awesome-br-cli",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "CLI para registrar novas postagem em awesome-br",
   "bin": {
     "awesome-br": "./lib/awesome-br.js"
