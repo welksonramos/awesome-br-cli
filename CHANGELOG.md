@@ -4,6 +4,16 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [0.5.0] - 2016-06-21
+
+## Changed
+- Code refactored
+-  Improve the messages. 
+
+## Fixed
+-  Remove duplicated code
+- Removing unnecessary statements
+
 ## [0.4.0] - 2016-06-12
 
 ### Added
