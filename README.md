@@ -62,6 +62,9 @@ Ex: awesome-br nodejs
 ```
 ***Inspirado em _[freetime-cli](https://github.com/free-time/freetime-cli)_***
 
+### Contribua
+Gostaria de contribuir com o projeto [Siga estas recomendações](CONTRIBUTING.md)
+
 ## License
 
 &copy; [MIT](LICENSE) License
