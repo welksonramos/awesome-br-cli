@@ -5,6 +5,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ## [Unreleased]
 ## Added
 - Improve Initial test
+- CONTRIBUTING file
+- Badges in Readme - Travis CI, NPM Version, Bithound and Awesome-BR
 
 ## Changed
 - Function updateFile modularized
