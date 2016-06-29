@@ -10,7 +10,7 @@
   },
   "preferGlobal": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ava"
   },
   "keywords": [
     "cli",
@@ -31,5 +31,9 @@
   "bugs": {
     "url": "https://github.com/welksonramos/awesome-br-cli/issues"
   },
-  "homepage": "https://github.com/welksonramos/awesome-br-cli#readme"
+  "homepage": "https://github.com/welksonramos/awesome-br-cli#readme",
+  "devDependencies": {
+    "ava": "^0.15.2",
+    "execa": "^0.4.0"
+  }
 }
