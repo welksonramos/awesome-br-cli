@@ -4,6 +4,17 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [0.6.2] - 2018-01-02
+
+## Added
+
+ - Paid choice in template
+
+## Fixed
+
+- Fix fs callback in awesome-br.js
+- Update dependencies
+
 ## [0.6.1] - 2016-07-01
 
 ## Fixed
