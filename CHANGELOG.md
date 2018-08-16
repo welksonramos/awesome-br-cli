@@ -4,6 +4,12 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [0.6.3] - 2018-08-16
+
+## Fixed
+- Update dependences
+- Remove Bithound badges
+
 ## [0.6.2] - 2018-01-02
 
 ## Added

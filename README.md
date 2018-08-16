@@ -1,11 +1,11 @@
 # Awesome-br-cli
-[![Build Status](https://travis-ci.org/welksonramos/awesome-br-cli.svg?branch=master)](https://travis-ci.org/welksonramos/awesome-br-cli) [![npm version](https://img.shields.io/npm/v/awesome-br-cli.svg)](https://www.npmjs.com/package/awesome-br-cli) [![bitHound Overall Score](https://www.bithound.io/github/welksonramos/awesome-br-cli/badges/score.svg)](https://www.bithound.io/github/welksonramos/awesome-br-cli) [![bitHound Dependencies](https://www.bithound.io/github/welksonramos/awesome-br-cli/badges/dependencies.svg)](https://www.bithound.io/github/welksonramos/awesome-br-cli/master/dependencies/npm) [![bitHound Code](https://www.bithound.io/github/welksonramos/awesome-br-cli/badges/code.svg)](https://www.bithound.io/github/welksonramos/awesome-br-cli) [![Awesome BR - Node](https://img.shields.io/badge/awesome--br.com-node-green.svg)](http://awesome-br.com/#/node)
+[![Build Status](https://travis-ci.org/welksonramos/awesome-br-cli.svg?branch=master)](https://travis-ci.org/welksonramos/awesome-br-cli) [![npm version](https://img.shields.io/npm/v/awesome-br-cli.svg)](https://www.npmjs.com/package/awesome-br-cli)[![Awesome BR - Node](https://img.shields.io/badge/awesome--br.com-node-green.svg)](http://awesome-br.com/#/node)
 > CLI para registrar novas postagem em [awesome-br](https://github.com/awesome-br)
 
 ![Demo](screenshot-cli.png)
 
 #Requisitos
-- [Node 4+](http://nodejs.org)
+- [Node 8.9.0+](http://nodejs.org)
 
 ## Instalação
 
