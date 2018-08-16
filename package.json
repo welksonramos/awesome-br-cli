@@ -1,12 +1,12 @@
 {
   "name": "awesome-br-cli",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "description": "CLI para registrar novas postagem em awesome-br",
   "bin": {
     "awesome-br": "./lib/awesome-br.js"
   },
   "engines": {
-    "node": ">=4.0.0"
+    "node": ">=8.9.0"
   },
   "preferGlobal": true,
   "scripts": {
@@ -20,7 +20,7 @@
   "author": "Welkson Ramos <welksonr@hotmail.com>",
   "license": "MIT",
   "dependencies": {
-    "inquirer": "^5.0.1",
+    "inquirer": "^6.1.0",
     "path-exists": "^3.0.0"
   },
   "repository": {
@@ -33,7 +33,7 @@
   "homepage": "https://github.com/welksonramos/awesome-br-cli#readme",
   "devDependencies": {
     "ava": "^0.25.0",
-    "execa": "^0.9.0",
-    "update-notifier": "^2.3.0"
+    "execa": "^0.10.0",
+    "update-notifier": "^2.5.0"
   }
 }
