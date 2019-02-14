@@ -1,10 +1,10 @@
 # Awesome-br-cli
-[![Build Status](https://travis-ci.org/welksonramos/awesome-br-cli.svg?branch=master)](https://travis-ci.org/welksonramos/awesome-br-cli) [![npm version](https://img.shields.io/npm/v/awesome-br-cli.svg)](https://www.npmjs.com/package/awesome-br-cli)[![Awesome BR - Node](https://img.shields.io/badge/awesome--br.com-node-green.svg)](http://awesome-br.com/#/node)
-> CLI para registrar novas postagem em [awesome-br](https://github.com/awesome-br)
+[![Build Status](https://travis-ci.org/welksonramos/awesome-br-cli.svg?branch=master)](https://travis-ci.org/welksonramos/awesome-br-cli) [![npm version](https://img.shields.io/npm/v/awesome-br-cli.svg)](https://www.npmjs.com/package/awesome-br-cli) [![dependencies Status](https://david-dm.org/welksonramos/awesome-br-cli/status.svg)](https://david-dm.org/welksonramos/awesome-br-cli) [![Awesome BR - Node](https://img.shields.io/badge/awesome--br.com-node-green.svg)](http://awesome-br.com/#/node)
+> CLI para registrar novas postagens em [awesome-br](https://github.com/awesome-br)
 
 ![Demo](screenshot-cli.png)
 
-#Requisitos
+# Requisitos
 - [Node 8.9.0+](http://nodejs.org)
 
 ## Instalação
@@ -69,6 +69,7 @@ $ awesome-br --help
       "introdução",
       "javascript"
     ],
+    "paid": "false",
     "author": {
       "name": "John Doe",
       "url": "http://exemplo.com"
