@@ -20,7 +20,7 @@
   "author": "Welkson Ramos <welksonr@hotmail.com>",
   "license": "MIT",
   "dependencies": {
-    "inquirer": "^6.1.0",
+    "inquirer": "^6.2.2",
     "path-exists": "^3.0.0"
   },
   "repository": {
@@ -32,8 +32,8 @@
   },
   "homepage": "https://github.com/welksonramos/awesome-br-cli#readme",
   "devDependencies": {
-    "ava": "^0.25.0",
-    "execa": "^0.10.0",
+    "ava": "^1.2.1",
+    "execa": "^1.0.0",
     "update-notifier": "^2.5.0"
   }
 }
